@@ -7,9 +7,9 @@ Parameters used in the Model
  - Hash Rate : Computing power used up for securing the cryptocurrency network.
  - Block Size : The size of each block in the cryptocurrency’s blockchain.
  - Difficulty : Measure of challenge to mine a new block.
- - Market Capitalization : Value of the cryptocurrency traded on the market.
+ - Market Capitalization : Value of the cryptocurrency traded on the market.
  - Mining Profitability : Potential profitability of mining the cryptocurrency.
- - Transaction : Information about volume of cryptocurrency transactions on the network.
+ - Transaction : Information about volume of cryptocurrency transactions on the network.
  - Tweets : Social media activity and sentiment expressed on platforms like Twitter.
 
 Model Description :
