@@ -13,12 +13,12 @@ Parameters used in the Model
  - Tweets : Social media activity and sentiment expressed on platforms like Twitter.
 
 Model Description :
-LSTM      - Two LSTM layers with 30 and 15 units
-GRU       - Two GRU layers with 30 and 15 units
-BiLSTM    - Two BiLSTM layers with 20 units each
-GRU-LSTM1 - LSTM layer with 30 units GRU layer with 15 units
-GRU-LSTM2 - LSTM layer with 15 units GRU layer with 30 units LSTM layer with 15 units
-SVM1      - Linear kernel
-SVM2      - Bagging
-SVM3      - Boosting
+ - LSTM      - Two LSTM layers with 30 and 15 units
+ - GRU       - Two GRU layers with 30 and 15 units
+ - BiLSTM    - Two BiLSTM layers with 20 units each
+ - GRU-LSTM1 - LSTM layer with 30 units GRU layer with 15 units
+ - GRU-LSTM2 - LSTM layer with 15 units GRU layer with 30 units LSTM layer with 15 units
+ - SVM1      - Linear kernel
+ - SVM2      - Bagging
+ - SVM3      - Boosting
 
